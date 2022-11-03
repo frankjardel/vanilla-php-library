@@ -44,5 +44,6 @@
         "test": "Run tests with Phpunit",
         "phan": "Run Phan for find errors in code",
         "cs": "Run cs for check design of code"
-    }
+    },
+    "bin": ["index.php"]
 }
